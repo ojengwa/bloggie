@@ -1,2 +1,2 @@
 # bloggie
-Example app to introduce Pair-programming.
+Example app to introduce remote Pair-programming.
